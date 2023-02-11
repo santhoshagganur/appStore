@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.app-container {
+  background-color: #ffffff;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+}
+
+.app-logo {
+  height: 80px;
+  background-size: cover;
+}
+
+.name {
+  font-family: Bree Serif;
+  font-size: 20px;
+  color: #1e293b;
+}
